@@ -2,3 +2,4 @@ Git rocks!
 "I didn't think it was taht easy :O" 
 "Latest addition" 
 "Latest addition again and again on new remote branch" 
+"First with Visual Studio Code!!!"
